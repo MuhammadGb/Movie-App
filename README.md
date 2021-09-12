@@ -1,4 +1,4 @@
-This is a movie app where users are able to check any information about their favourite movies. Users can also search for new, old and popular movies
+This is a movie app that allows users to check up any information about their favourite movies. Users can also search for new, old and popular movies
 
 ## Available Scripts
 
